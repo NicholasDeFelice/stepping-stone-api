@@ -68,3 +68,4 @@ service_account.json
 
 service_account
 
+./functions/express/service_account.json
